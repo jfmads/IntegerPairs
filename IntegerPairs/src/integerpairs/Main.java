@@ -80,7 +80,7 @@ public class Main {
      */
     private static void pairs(){
         
-        pairRunTime = System.currentTimeMillis();   // this is where the program pair analysis begins
+        pairRunTime = System.currentTimeMillis();               // this is where the program pair analysis begins
         pairUnique = new int[inputNum.length * 2][];            // to verify there is enough space allocated
         pairNoDups = new int[inputNum.length * 2][];
         
