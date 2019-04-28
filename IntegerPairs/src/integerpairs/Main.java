@@ -1,10 +1,8 @@
 package integerpairs;
 
-
 import java.util.Scanner;
 
 /**
- *
  * @author Joseph Madden
  *
  * Date Created : 04/26/2019 
