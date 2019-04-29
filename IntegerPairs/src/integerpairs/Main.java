@@ -36,6 +36,8 @@ public class Main {
     public static void main(String[] args) {
         getData();          
         System.out.println("Pairing Time: " + (System.currentTimeMillis() - pairRunTime) + " milliseconds\n");
+        System.out.println("Unique Pairs : " + sizeU);
+        System.out.println("Non-Dup Pairs: " + sizeND + "\n");
     }
 
     /**
